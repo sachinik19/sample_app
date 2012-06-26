@@ -1,2 +1,4 @@
 --colour
 --drb
+-r rspec-extra-formatters
+-f JUnitFormatter
