@@ -23,4 +23,5 @@ group :test do
   gem 'cucumber-rails', '1.2.1', require: false
   gem 'database_cleaner', '0.7.0'
   gem "rspec-extra-formatters"
+  gem 'simplecov', :require => false, :group => :test
 end
